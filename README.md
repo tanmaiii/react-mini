@@ -1,3 +1,16 @@
+```
+
+git clone git@github.com:tanmaiii/react-mini.git
+
+```
+
+```
+
+npm i
+
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
